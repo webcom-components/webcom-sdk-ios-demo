@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		852636BD1D14449C0044452B /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 852636BB1D14449C0044452B /* LICENSE */; };
+		852636BE1D14449C0044452B /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 852636BC1D14449C0044452B /* README.md */; };
 		AF1E16481C884E6100B924B5 /* WebcomManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF1E16471C884E6100B924B5 /* WebcomManager.swift */; };
 		AF2C38CB1C7DF14E00996A6F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = AF2C38CD1C7DF14E00996A6F /* Localizable.strings */; };
 		AF59242B1C7C766600066284 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF59242A1C7C766600066284 /* AppDelegate.swift */; };
@@ -82,8 +84,8 @@
 /* Begin PBXFileReference section */
 		17B4A3BE87162A82190B1778 /* Pods-Webcom-Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Webcom-Demo.release.xcconfig"; path = "Pods/Target Support Files/Pods-Webcom-Demo/Pods-Webcom-Demo.release.xcconfig"; sourceTree = "<group>"; };
 		4ACECDD843DA3F055272CB0A /* Pods-Webcom-Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Webcom-Demo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Webcom-Demo/Pods-Webcom-Demo.debug.xcconfig"; sourceTree = "<group>"; };
-		850354801C97014800E6E0C4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		850354821C9707E200E6E0C4 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		852636BB1D14449C0044452B /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		852636BC1D14449C0044452B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		AF1E16471C884E6100B924B5 /* WebcomManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebcomManager.swift; sourceTree = "<group>"; };
 		AF2C38CC1C7DF14E00996A6F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		AF5924271C7C766600066284 /* Webcom-Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Webcom-Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -232,8 +234,8 @@
 				AF5924361C7C766600066284 /* Info.plist */,
 				AF2C38CD1C7DF14E00996A6F /* Localizable.strings */,
 				AFC2CE571C7CC88A00462FB5 /* Webcom-Demo-Bridging-Header.h */,
-				850354821C9707E200E6E0C4 /* LICENSE */,
-				850354801C97014800E6E0C4 /* README.md */,
+				852636BB1D14449C0044452B /* LICENSE */,
+				852636BC1D14449C0044452B /* README.md */,
 			);
 			path = "Webcom-Demo";
 			sourceTree = "<group>";
@@ -526,6 +528,7 @@
 				AF5E3F871CA0682F000C5DA8 /* JSQMessagesTypingIndicatorFooterView.xib in Resources */,
 				AF5E3F5C1CA0682F000C5DA8 /* JSQMessagesAssets.bundle in Resources */,
 				AF5E3F821CA0682F000C5DA8 /* JSQMessagesLoadEarlierHeaderView.xib in Resources */,
+				852636BD1D14449C0044452B /* LICENSE in Resources */,
 				AF5E3F7D1CA0682F000C5DA8 /* JSQMessagesCollectionViewCellOutgoing.xib in Resources */,
 				AF5924321C7C766600066284 /* Assets.xcassets in Resources */,
 				AF5E3F661CA0682F000C5DA8 /* JSQMessagesViewController.xib in Resources */,
@@ -549,6 +552,7 @@
 				AF59242B1C7C766600066284 /* AppDelegate.swift in Sources */,
 				AF5E3F7A1CA0682F000C5DA8 /* JSQMessagesCollectionViewCellIncoming.m in Sources */,
 				AF5E3F6D1CA0682F000C5DA8 /* JSQMessagesCollectionViewFlowLayout.m in Sources */,
+				852636BE1D14449C0044452B /* README.md in Sources */,
 				AF5E3F651CA0682F000C5DA8 /* JSQMessagesViewController.m in Sources */,
 				AFB90A971C8055A7007F73F4 /* ChatRoomsViewController.swift in Sources */,
 				AF5E3F6F1CA0682F000C5DA8 /* JSQMessagesCollectionViewLayoutAttributes.m in Sources */,
