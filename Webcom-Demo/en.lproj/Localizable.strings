@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  Webcom-Demo
+
+  Created by Florent Maitre on 24/02/2016.
+  Copyright © 2016 Orange. All rights reserved.
+*/
+
+"DisconnectButtonTitleKey" = "Disconnect";
+"CancelButtonTitleKey" = "Cancel";
+
+"AuthenticationTitleKey" = "Webcom";
+"AuthenticationSubtitleKey" = "Chat demo";
+"AuthenticationSignUpButtonTitleKey" = "Sign up";
+"AuthenticationLoginButtonTitleKey" = "Login";
+"AuthenticationEmailPlaceholderKey" = "Example@orange.com";
+"AuthenticationPasswordPlaceholderKey" = "Password";
+"AuthenticationSignUpErrorMessageKey" = "Could not sign up";
+"AuthenticationLoginErrorMessageKey" = "Could not login";
+"AuthenticationEmptyLoginKey" = "Please enter your email";
+"AuthenticationEmptyPasswordKey" = "Please enter your password";
+
+"GeneralChatRoomTitleKey" = "General";
+"ChatRoomsTitleKey" = "Chat Rooms";
+"PublicChatRoomsTitleKey" = "Public";
+"PrivateChatRoomsTitleKey" = "Private";

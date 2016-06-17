@@ -1,0 +1,6 @@
+framework module Webcom {
+  umbrella header "Webcom.h"
+
+  export *
+  module * { export * }
+}
