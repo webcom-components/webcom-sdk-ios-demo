@@ -10,7 +10,7 @@ Webcom Chat Demo
 
 ## Setup
 
-* Create an account on [Webcom](http://io.datasync.orange.com)
+* Create an account on [Flexible Datasync](http://io.datasync.orange.com)
 * Once you have your account and logged on Webcom, create a new namespace.
 * Clone this repository.
 * Open the workspace `Webcom-Demo.xcodeproj` 
