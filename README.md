@@ -17,5 +17,12 @@ Webcom Chat Demo
 * Edit [`WebcomManager.swift`](webcom-sdk-ios-demo/WebcomManager.swift) and change `baseURLPath` to point your Webcom namespace.
 * Launch the app !
 
+## Release
+In order to publish an application using Flexible DataSync SDK to AppStore you need to add a script to your project.
+
+* Go to "Build Phases" pane in your project Target
+* Add a "Run script phase"
+* Copy paste this script
+
 ## License
 [MIT](https://opensource.org/licenses/MIT)
