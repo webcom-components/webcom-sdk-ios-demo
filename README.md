@@ -22,7 +22,7 @@ In order to publish an application using Flexible DataSync SDK to AppStore you n
 
 * Go to "Build Phases" pane in your project Target
 * Add a "Run script phase"
-* Copy paste this [`script`][https://gist.github.com/chazemar/c280709dfac1d9d405ca7e9daffb41f8]
+* Copy paste this [`script`](https://gist.github.com/chazemar/c280709dfac1d9d405ca7e9daffb41f8)
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
