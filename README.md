@@ -18,7 +18,7 @@ Webcom Chat Demo
 * Launch the app !
 
 ## Release
-In order to publish an application using Flexible DataSync SDK to AppStore you need to add a script to your project.
+In order to publish an application using [Flexible DataSync](http://io.datasync.orange.com) SDK to AppStore you need to add a script to your project.
 
 * Go to "Build Phases" pane in your project Target
 * Add a "Run script phase"
